@@ -1,0 +1,4 @@
+1- atribua três valores as variáveis a,b e c.
+2- se a maior que b e c retorne em res. Senão, vá para o passo 3
+3- se b maior que a e c retorne em res. Senão, vá para o passo 4
+4- se c maior que a e b retorne em res

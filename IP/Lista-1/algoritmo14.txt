@@ -1,0 +1,6 @@
+1- atribua um valor a variavel i
+2- se i for maior ou igual a 5, ou for menor ou igual a 7 exiba "infantil A"
+3- se i for maior ou igual a 8 exiba "infantil B"
+4- se i for maior ou igual a 11 exiba "juvenil A"
+5- se i for maior ou igual a 14 exiba "juvenil B"
+6- se i for maior ou igual a 18 exiba "adulto"

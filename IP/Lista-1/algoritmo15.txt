@@ -1,0 +1,6 @@
+1- receba um número e atribua em a.
+2- Divida a por 100 e pegue o resultado e atribua em cem, e o resto em a.
+3- Divida a por 50 e pegue o resultado e atribua em cinquenta, e o resto em a.
+4- Divida a por 10 e pegue o resultado e atribua em dez, e o resto em a.
+5- atribua o valor de a em 1.
+6- retorne os valores de cem,cinquenta,dez e um.

@@ -1,0 +1,3 @@
+1- some n e 1 e atribua em a.
+2- multiplique a por n e divida por 2; Pegue o resultado e atribua em res.
+3- exiba res.

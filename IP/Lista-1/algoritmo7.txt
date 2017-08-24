@@ -1,0 +1,5 @@
+1- receba um valor e atribua a a
+2- divida a por 12 pegue o resultado e atribua em anos
+3- multiplique a por 12 e pegue o resultado e atribua em meses
+4- multiplique a por 30 e pegue o resultado e atribua em dias
+5- exiba o valor da variável dias

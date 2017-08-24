@@ -1,0 +1,5 @@
+1- defina o valor de zero para a variável q e o valor de a para variável r
+2- se b > r o algoritmo para e o resultado do quociente é q e do resto é r 
+3- subtrair b de r e atribuir resultado para r
+4- somar 1 ao valor de q 
+5- executar o passo 2

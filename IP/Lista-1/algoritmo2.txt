@@ -1,0 +1,5 @@
+1- atribua dois números para a e b
+2- se a for maior que b, então res. e inc. recebem a, e cont. recebe b-1, caso contrário, res. e inc. recebem
+    b, e cont. recebe a-1
+3- se cont. for igual a 0, retorne res (FIM), senão vá para 3.1
+   3.1- diminua uma unidade em cont. e adicione inc. em res. vá para o passo 3

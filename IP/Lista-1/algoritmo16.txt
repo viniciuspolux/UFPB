@@ -1,0 +1,9 @@
+1- receba a hora inicial e atribua a hi, hora final atribua a hf, minuto inicial atribua a mi, minuto final atribua a mf.
+2- se hi menor que hf, vá para o passo 2.1, senão vá para o passo 2.2
+  2.1- atribua hf menos hi a variável horas, vá para o passo 3.
+  2.2- atribua 24 menos hi a variável horas e some hf a variável horas; vá para passo 3
+3- se mf maior que mi, vá para 3.1, senão vá para 3.2
+  3.1- atribua mf menos mi a variável minutos e vá para 3.3
+  3.2- atribua mf a minutos e some 60 menos mi a minutos; vá para 3.3
+  3.3- some o quociete de minutos dividido por 60 a variável horas, e atribua o resto a minutos, vá para 4
+4- retorne horas e minutos.

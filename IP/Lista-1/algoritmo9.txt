@@ -1,0 +1,7 @@
+1- receba três valores e atribua em a, b e c
+2- multiplique a por 2 e atribua em g
+3- multiplique b por 3 e atribua em j
+4- multiplique c por 5 e atribua em d
+5- some 2,3 e 5 e atribua em r
+6- some g,j e d e divida por r; Atribua o resultado a res
+7- exibir res (FIM)

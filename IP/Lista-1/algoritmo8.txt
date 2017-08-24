@@ -1,0 +1,4 @@
+1- receba um valor e atribua em a
+2- divida a por 365 e atribua a variável anos
+3- divida o resto da divisão por 30 e atribua a variável meses
+4- o resto atribua a variável dias

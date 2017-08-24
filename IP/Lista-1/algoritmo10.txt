@@ -1,0 +1,6 @@
+1- atribua um valor a variavel d
+2- divida d por 60 e atrbua a m
+3- o resto da divisao de m atribua a s
+4- divida m por 60 e atribua a h
+5- o resto da divisao de h atribua a m
+6- exiba h, m, s

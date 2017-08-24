@@ -1,0 +1,4 @@
+1- receba e atribua valores as variaveis a, b e c
+2- some os valores das variaveis a, b e c e atribua a n
+3- divida n por 3
+4- se o resultado da divisao for igual ou maior que 6, exiba "aprovado", caso contrario, exiba "reprovado"

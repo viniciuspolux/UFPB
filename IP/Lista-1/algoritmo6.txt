@@ -1,0 +1,4 @@
+1- atribua um valor a variavel n
+2- divida n por 2
+3- se o resto da divisao de n por 2 for igual a 0 exiba "é par", caso contrário, exiba "é impar"
+4- se n < 0, exiba "negativo", caso contrario, exiba "positivo"
