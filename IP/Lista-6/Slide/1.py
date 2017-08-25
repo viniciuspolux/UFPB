@@ -1,5 +1,5 @@
-m=(int(input("Digite o valor de M = ")))
-n=(int(input("Digite o valor de N = ")))
+m=(int(input("Digite o valor de M: ")))
+n=(int(input("Digite o valor de N: = ")))
 
 if n<m :
     x=m
