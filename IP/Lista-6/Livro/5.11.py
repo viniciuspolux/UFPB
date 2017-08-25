@@ -1,5 +1,5 @@
-deposito=(float(input("Digite o valor do depósito inicial = ")))
-juros=(float(input("Digite a taxa de juros = ")))
+deposito=(float(input("Digite o valor do depósito inicial: ")))
+juros=(float(input("Digite a taxa de juros: ")))
 
 jurosfinal= juros/100
 
