@@ -1,4 +1,4 @@
-ultimo=(int(input("Digite o último número = ")))
+ultimo=(int(input("Digite o último número: ")))
 
 x=1
 
