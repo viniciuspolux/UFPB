@@ -1,5 +1,5 @@
-numeroa= (int(input("Digite o primeiro valor = ")))
-numerob= (int(input("Digite o segundo valor = ")))
+numeroa= (int(input("Digite o primeiro valor: ")))
+numerob= (int(input("Digite o segundo valor: ")))
 
 res=0
 cont=0
